@@ -15,7 +15,11 @@ it's a text file that says, which base software to use, what files to copy, how 
 Port mapping connects a port inside the container to a port on your laptop.
 It creates a bridge between your machine(host) and container
 <img width="993" height="462" alt="image" src="https://github.com/user-attachments/assets/1abfdb94-45a6-4cdc-a537-7e2c344c42fd" />
-<img width="1006" height="521" alt="image" src="https://github.com/user-attachments/assets/c53dc007-5883-42ff-b68c-476080e3b14f" />
+<img width="1006" height="521" alt="image" src="https://github.com/user-attachments/assets/c53dc007-5883-42ff-b68c-476080e3b14f" /> 
+
+## Docker hub
+Docker Hub is a cloud-based registry service that allows developers to store, share, and manage Docker images.
+Docker Hub is for sharing runnable applications, not source code collaboration.
 
 
 
