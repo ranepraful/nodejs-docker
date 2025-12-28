@@ -11,6 +11,14 @@ running instance of Image, this is a actual running app
 ## Dockerfile
 it's a text file that says, which base software to use, what files to copy, how to start the app
 
+## Port mapping
+Port mapping connects a port inside the container to a port on your laptop.
+It creates a bridge between your machine(host) and container
+<img width="993" height="462" alt="image" src="https://github.com/user-attachments/assets/1abfdb94-45a6-4cdc-a537-7e2c344c42fd" />
+<img width="1006" height="521" alt="image" src="https://github.com/user-attachments/assets/c53dc007-5883-42ff-b68c-476080e3b14f" />
+
+
+
 ## docker-compose.yml
 Docker Compose is a manager that starts multiple Docker containers together using one file and one command.
 think it as remote control for many containers
