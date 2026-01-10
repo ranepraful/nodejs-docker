@@ -10,6 +10,7 @@ running instance of Image, this is a actual running app
 
 ## Dockerfile
 it's a text file that says, which base software to use, what files to copy, how to start the app
+a Docker image is created based on a Dockerfile.
 
 ## Port mapping
 Port mapping connects a port inside the container to a port on your laptop.
